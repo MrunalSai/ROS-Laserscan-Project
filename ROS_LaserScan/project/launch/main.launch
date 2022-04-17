@@ -1,5 +1,0 @@
-<launch>
-<node pkg = "miniprj" name = "trial2" type = "main.py" output = "screen">
-
-</node>
-</launch>
