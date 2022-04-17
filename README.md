@@ -32,3 +32,5 @@ To brush up ROS basics,
 To manipulate LaserScan message from /scan topic.
 
 Language used is python. 
+
+https://user-images.githubusercontent.com/100195020/163710563-b65ee259-70b0-4a0a-aeb0-d1d9193511fc.mp4
